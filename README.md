@@ -1,5 +1,5 @@
 # yoketoru2021-demo
-[よけとる2021 試遊版](./index.html)
+[よけとる2021 試遊版](https://datgm21.github.io/yoketoru2021-demo)
 
 ## 開発環境
 - Windows10
